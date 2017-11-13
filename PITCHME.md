@@ -10,7 +10,7 @@
 <table>
   <tr>
     <th>会社名</th>
-    <th>参加人数</th> 
+    <th>人数</th> 
   </tr>
   <tr>
     <td>NTTコミュニケーションズ</td>
