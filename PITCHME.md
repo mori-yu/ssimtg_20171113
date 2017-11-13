@@ -83,6 +83,8 @@
 ---
 作成したアプリケーション
 +++
+![image1](image1.png)
++++
 ~~~
 import groovy.sql.Sql
 
