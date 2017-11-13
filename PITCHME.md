@@ -29,8 +29,8 @@
      <th>15</th> 
   </tr>
  <tr>
-    <th>NTTPCコミュニケーションズ</th>
-    <th>11</th> 
+    <th>**NTTPCコミュニケーションズ**</th>
+    <th>**11**</th> 
  </tr>
 </table>
 +++
