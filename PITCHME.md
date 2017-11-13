@@ -82,6 +82,22 @@
 ##### 本日決勝戦です
 ---
 作成したアプリケーション
++++
+~~~grrovy
+import groovy.sql.Sql
+
+def s_name = execution.getVariable("name")
+def s_meet_day = execution.getVariable("meet_day")
+def s_place = execution.getVariable("place")
+def s_do = execution.getVariable("do")
+def s_note = execution.getVariable("note")
+def currentUser = execution.getVariable("currentUser")
+def entryUserId = currentUser.firstName
+
+def sql=Sql.newInstance("jdbc:mysql://52.198.110.117:3306/cotoha", "aifes_user",  "aifes_user",  "com.mysql.jdbc.Driver")
+sql.execute("insert into aifes_demo (add_user,name,meet_day,place,do,note) values (${entryUserId},${s_name},${s_meet_day},${s_place},${s_do},${s_note})")
+sql.close()
+~~~
 ---
 ### 敗因と感想
 ---
