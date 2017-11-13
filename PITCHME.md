@@ -156,5 +156,9 @@ sql.close()
 
 +++?code=markdown-sample.md
 
++++
+https://github.com/gitpitch/gitpitch/wiki
+#### ここにすべて書いてます
+#### 簡単なスライド作成の際に是非！
 ---
 終わり
