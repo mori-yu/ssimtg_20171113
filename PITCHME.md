@@ -16,6 +16,11 @@
     <td>NTTコミュニケーションズ</td>
     <td>Smith</td>
   </tr>
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
   <tr class="fragment">
     <td>Eve</td>
     <td>Jackson</td>
