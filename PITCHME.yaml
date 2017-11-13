@@ -1,4 +1,5 @@
 #スライドのページ数表示の設定
 slide-number: true
 
+#テーマ固定
 theme : moon
