@@ -14,22 +14,43 @@
   </tr>
   <tr>
     <td>NTTコミュニケーションズ</td>
-    <td>Smith</td>
+    <td>370</td>
   </tr>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>NTTコムエンジニアリング</th>
+    <th>103</th> 
   </tr>
-  <tr class="fragment">
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+ <tr>
+    <th>NTTコムソリューションズ</th>
+    <th>50</th> 
   </tr>
-  <tr class="fragment">
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+ <tr>
+    <th>エヌ・ティ・ティ・ビズリンク</th>
+    <th>15</th> 
+  </tr>
+ <tr>
+    <th>エヌ・ティ・ティ ピー・シー コミュニケーションズ</th>
+    <th>11</th> 
+  </tr>
+ <tr>
+    <th>エヌ・ティ・ティ レゾナント</th>
+    <th>7</th> 
+  </tr>
+ <tr>
+    <th>エヌ・ティ・ティ国際通信</th>
+    <th>5</th> 
+  </tr>
+ <tr>
+    <th>エヌ・ティ・ティ・コム チェオ</th>
+    <th>4</th> 
+  </tr>
+ <tr>
+    <th>NTTコム マーケティング</th>
+    <th>1</th> 
+  </tr>
+ <tr>
+    <th>その他</th>
+    <th>27</th> 
   </tr>
 </table>
 ---
