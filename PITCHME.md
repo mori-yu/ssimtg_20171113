@@ -100,6 +100,7 @@ def sql=Sql.newInstance("jdbc:mysql://52.198.110.117:3306/cotoha", "aifes_user",
 sql.execute("insert into aifes_demo (add_user,name,meet_day,place,do,note) values (${entryUserId},${s_name},${s_meet_day},${s_place},${s_do},${s_note})")
 sql.close()
 ~~~
+groovyっていうjavaライクの言語を使用する
 ---
 ### 敗因と感想
 ---
