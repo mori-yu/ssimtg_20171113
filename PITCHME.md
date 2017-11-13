@@ -84,6 +84,7 @@
 作成したアプリケーション
 +++
 ![image1](image1.png)
+フローチャート的にシナリオを組む
 +++
 ~~~
 import groovy.sql.Sql
