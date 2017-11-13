@@ -83,7 +83,7 @@
 ---
 作成したアプリケーション
 +++
-~~~grrovy
+~~~
 import groovy.sql.Sql
 
 def s_name = execution.getVariable("name")
